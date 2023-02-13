@@ -24,7 +24,7 @@
 		   </a></th>
 		   <h2><th><li>4eme Chapitre: Les Réseaux Sociaux.</li></th></h2>
 		   <br/><img src="reseauxsociaux.png" heigh="100px" width="400px"/>
-		   <th><a href="file:///C:/Users/Juan%20David/Documents/colegio/Github%20page%20web/4emechapitre.html">
+		   <th><a href="https://juandavidcifuentes.github.io/juandavidcifuentes4.github.io/">
 		   <button>Reseaux Sociaux</button>
 		   </a></th>
 		   <h2><th><li>5eme Chapitre: Le Traitement de données.</li></th></h2>
