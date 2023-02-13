@@ -19,7 +19,7 @@
 		   </a></th>
 		   <h2><th><li>3eme Chapitre: Le Web.</li></th></h2>
 		   <br/><img src="leweb.png" heigh="100px" width="400px"/>
-		   <th><a href="file:///C:/Users/Juan%20David/Documents/colegio/Github%20page%20web/3emechapitre.html">
+		   <th><a href="https://juandavidcifuentes.github.io/juandavidcifuentes3.github.io/">
 		   <button>Le Web</button>
 		   </a></th>
 		   <h2><th><li>4eme Chapitre: Les Réseaux Sociaux.</li></th></h2>
