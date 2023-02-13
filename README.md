@@ -14,7 +14,7 @@
 		   </a></th>
 		   <h2><th><li>2nd Chapitre: L'Internet.</li></th></h2>
 		   <br/><img src="internet.png" heigh="100px" width="400px"/>
-		   <th><a href="file:///C:/Users/Juan%20David/Documents/colegio/Github%20page%20web/2ndchapitre.html">
+		   <th><a href="https://juandavidcifuentes.github.io/juandavidcifuentes2.github.io/">
 		   <button>L'Internet</button>
 		   </a></th>
 		   <h2><th><li>3eme Chapitre: Le Web.</li></th></h2>
