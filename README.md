@@ -35,8 +35,9 @@
 		   </a></th>
 		   <h2><th><li>7eme Chapitre: Le Géolocalisation.</li></th></h2>
 		   <br/><img src="geolocalisation.png" heigh="100px" width="400px"/>
-
+		   </a></th>
 		   <h2><th><li>8eme Chapitre: Les Objets Connectées.</li></th></h2>
 		   <br/><img src="objetsconnectes.png" heigh="100px" width="400px"/>
+		   </a></th>
 	</body>
 </html>
